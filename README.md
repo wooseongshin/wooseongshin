@@ -1,5 +1,5 @@
 
-### 부스트캠프 웹모바일 7기 멤버십 진행중
+### hi
 
 <!--
 **wooseongshin/wooseongshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
