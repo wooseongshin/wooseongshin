@@ -1,6 +1,7 @@
 <div align="center">
   
-  Hi I'm WooSeong.Shin.
+  Hi I'm WooSeong.Shin, I'm interested in web development
+  
   <br>
   <br>
   <br>
