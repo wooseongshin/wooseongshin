@@ -18,7 +18,7 @@
   <br>
   <br>
   
-  ### Contribution List
+  ### Open Source Contributed 🎉
   
  <a href="https://github.com/line/armeria" target="_blank"><img src="https://github.com/line/armeria/raw/master/site/src/design/armeria_icon_and_text_vert.svg" width=10%> 
   
