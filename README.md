@@ -23,7 +23,7 @@
   
   ### ⚙ Open Source Contributed ⚙
   
- <a href="https://github.com/line/armeria" target="_blank"><img src="https://github.com/line/armeria/raw/master/site/src/design/armeria_icon_and_text_vert.svg" width=10%> 
+ <a href="https://github.com/line/armeria" target="_blank"><img src="https://github.com/line/armeria/raw/master/site/src/design/armeria_icon_and_text_horiz.svg" width=10%>
   
   
   ### ME 😋
