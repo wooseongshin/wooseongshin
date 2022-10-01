@@ -3,9 +3,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20github&fontSize=50)
   
   Hi I'm WooSeong.Shin, I'm interested in web development
-  
-  <br>
-  <br>
+
+
   <br>
   
   ### 🛠 TECH STACK 🛠
@@ -26,9 +25,3 @@
  <a href="https://github.com/line/armeria" target="_blank"><img src="https://github.com/line/armeria/raw/master/site/src/design/armeria_icon_and_text_horiz.svg" width=10%>
   
   
-  ### ME 😋
-  
-  <a href="https://velog.io/@tlsdntjd95" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</div> 
-  
-  <a href="dominance5995@gmail.com" target="_blank"></a>
