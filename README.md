@@ -27,5 +27,4 @@
  <a href="https://github.com/line/armeria" target="_blank"><img src="https://github.com/line/armeria/raw/master/site/src/design/armeria_icon_and_text_horiz.svg" width=10%>
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooseongshin&layout=compact)](https://github.com/wooseongshin/github-readme-stats)
-  
+
