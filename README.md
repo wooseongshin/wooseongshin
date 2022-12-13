@@ -17,6 +17,7 @@
   
   ### FrontEnd
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-5277C3?style=flat&logo=recoil&logoColor=white">
   
   ### BackEnd
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
